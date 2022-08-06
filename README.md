@@ -52,7 +52,7 @@ Step 4:  Once you’ve successfully deposited funds into your contract, test the
 
 Conclution: 
 
-Solidity and REMIX IDE prove to be simple yet powerful tool to build a smart contract which can be used to build joint saving account on blockching using smart contract used to deposit and withdraw funds effeciently.  
+Solidity and REMIX IDE prove to be simple yet powerful tool to build a smart contract which can be used to build joint saving account on blockchain using smart contract used to deposit and withdraw funds effeciently.  
 
 
 ## Contributors
